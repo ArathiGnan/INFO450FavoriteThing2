@@ -16,7 +16,7 @@ int main()
 	cout << iobject1 << endl;
 
 	RestaurantList myList;
-	myList.AddItem();
+	myList.AddItem(); 
 	myList.AddItem();
 	myList.AddItem();
 	myList.AddItem();
